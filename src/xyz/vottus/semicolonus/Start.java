@@ -4,12 +4,6 @@ import xyz.vottus.semicolonus.app.SemicolonusProcessor;
 import xyz.vottus.semicolonus.exception.SemicolonusException;
 import xyz.vottus.semicolonus.utils.Utils;
 
-import java.io.File;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.nio.file.StandardOpenOption;
-
 /**
  * Semicolonus v1.0 by VottusCode
  * A little tool that appends semicolon on end of every line in an input file.
